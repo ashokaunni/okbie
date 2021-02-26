@@ -1,0 +1,15 @@
+.tbl{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: darkgrey;
+    width: 100%;
+}
+tr{
+    background-color: green;
+    color: white;
+}
+tr:hover{background-color: red;
+    
+}

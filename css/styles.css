@@ -1,0 +1,19 @@
+/*defining styles using style class*/
+.abc {
+    background-color: chartreuse;
+    width: 10%;
+    height: 20px;
+}
+/*based on id*/
+#p1 {
+    color: crimson;
+}
+/*based on element*/
+h1 {
+    color: purple;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: green;
+}

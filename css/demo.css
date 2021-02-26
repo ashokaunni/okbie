@@ -1,0 +1,7 @@
+.mylink{
+    background-color: blueviolet;
+    color: darkgrey;
+}
+.mylink:hover{
+    background-color: crimson;
+}
